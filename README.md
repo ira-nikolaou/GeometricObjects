@@ -16,3 +16,5 @@ Creates two shapes and compares the shapes based on their surface area.
 
 Start the programme with MainW3Short: 
 This version allows you to see the sort and compare to functionality without manually adding 5 shapes.
+
+test https://snigel.com/blog/google-web-stories-ads 
